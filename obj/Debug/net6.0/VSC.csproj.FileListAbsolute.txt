@@ -1,0 +1,15 @@
+/Users/efiemaronoparison/Desktop/VSC/bin/Debug/net6.0/VSC
+/Users/efiemaronoparison/Desktop/VSC/bin/Debug/net6.0/VSC.deps.json
+/Users/efiemaronoparison/Desktop/VSC/bin/Debug/net6.0/VSC.runtimeconfig.json
+/Users/efiemaronoparison/Desktop/VSC/bin/Debug/net6.0/VSC.dll
+/Users/efiemaronoparison/Desktop/VSC/bin/Debug/net6.0/VSC.pdb
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.csproj.AssemblyReference.cache
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.AssemblyInfoInputs.cache
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.AssemblyInfo.cs
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.csproj.CoreCompileInputs.cache
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.dll
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/refint/VSC.dll
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.pdb
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/VSC.genruntimeconfig.cache
+/Users/efiemaronoparison/Desktop/VSC/obj/Debug/net6.0/ref/VSC.dll
